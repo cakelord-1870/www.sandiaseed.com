@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.sandiaseed.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.sandiaseed.com/collections/hot-pepper-seeds.atom"/>
+  <title>Sandia Seed Company</title>
+  <updated>2020-12-21T13:16:03-08:00</updated>
+  <author>
+    <name>Sandia Seed Company</name>
+  </author>
+  <entry>
+    <id>https://www.sandiaseed.com/products/4703389450300</id>
+    <published>2020-12-21T13:16:03-08:00</published>
+    <updated>2020-12-21T13:16:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/red-cherry-pepper-sweet-heirloom-pepper-seeds"/>
+    <title>Sweet Red Cherry Pepper - Heirloom Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/SweetRedCherryPepperpktpic.jpg?v=1624144806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 1-1/2” round peppers are bright red with sweet thick flesh and a tangy flavor when ripe. They mature from dark green to red. The compact plants are 30” tall and will produce fruit all season long. Great for containers.<br></p>
+<p><em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">annuum</span></em> (73 days) Heirloom - Open-pollinated - Organic<br></p>
+<p>Heat Level: None</p>
+<p>~ Packet contains 10 seeds. </p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into large 5 gallon containers. Harvest peppers when they are red. </span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807" width="53" height="50"><img src="https://cdn.shopify.com/s/files/1/0871/0950/files/USDAsmalllogo_large.jpg?v=1566253794" alt=""><br>All of our seeds are GMO-free.</em></span></span></p>
+<a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>chile seeds</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>red chile</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/4703389450300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/4687100444732</id>
+    <published>2020-11-25T17:32:13-08:00</published>
+    <updated>2020-11-25T17:32:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/numex-easter-ornamental-pepper-seeds"/>
+    <title>Easter Ornamental NuMex Pepper Seeds</title>
+    <s:type>seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/NuMexEasterpepperpic.jpg?v=1606356267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This pepper grows into a beautiful and compact, 8-12” plant with many small clusters of 4-6 fruits on top of the plant. Colors range from lavender to light yellow and then maturing to a light orange. Peppers are spicy and edible. The clusters of peppers on the tips of each compact branch are an ever-changing array of pastel Easter colors. You will see shades of lavender, yellow, and orange all born on a plant. This plant is heat and humidity tolerant and perseveres in rain or drought and earned it the All-America Selections Award.  This winning plant really turns heads and is stunning in containers or mass plantings. <br><br><meta charset="utf-8">Want more beautiful peppers to grow? <br data-mce-fragment="1">Check out all of our <strong data-mce-fragment="1"><span data-mce-fragment="1"><a href="https://www.sandiaseed.com/collections/ornamental-peppers" data-mce-fragment="1" data-mce-href="https://www.sandiaseed.com/collections/ornamental-peppers">Ornamental Pepper Seeds »</a></span></strong><br><br></p>
+<p><em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">annuum</span></em> (85 days) Open-pollinated - Ornamental<br></p>
+<p>Heat Level: Hot Scoville: Unknown <br data-mce-fragment="1"><br data-mce-fragment="1">~ Packet contains 10 seeds. <br data-mce-fragment="1"><br data-mce-fragment="1">In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light, and keep moist at all times. Seeds will germinate in 7 - 14 days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant them directly into rich soil, 20" apart for a border or into patio containers. <br data-mce-fragment="1"><br data-mce-fragment="1"><em data-mce-fragment="1"><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807" data-mce-src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807" data-mce-fragment="1"><br data-mce-fragment="1">All of our seeds are GMO-free.</em><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aas</s:tag>
+    <s:tag>catalog list</s:tag>
+    <s:tag>hot pepper</s:tag>
+    <s:tag>NuMex</s:tag>
+    <s:tag>open-pollinated</s:tag>
+    <s:tag>ornamental</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/4687100444732</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>705641-991983</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/4674482995260</id>
+    <published>2020-11-07T17:40:56-08:00</published>
+    <updated>2020-11-07T17:40:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/serrano-numex-cajohns-1"/>
+    <title>Serrano NuMex Cajohn&apos;s</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/SerranoCaJohns.jpg?v=1604799283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a brand new variety from the Chile Pepper Institute (CPI) in New Mexico was bred to be a serrano that is bigger and milder. After six years of selective breeding, this great serrano was developed and now available for everyone to grow. Named after John and Sue Hard, the creators of CaJohn's Fiery Foods, and who have a long history of working with the CPI. Serrano peppers are always popular in Mexican and New Mexican cuisines. Use this variety for more flavor and less burn when making salsas and pico de gallo. The NuMex CaJohn's serrano measures 5,000 Scoville Heat Units (SHU) on the Scoville scale, compared to the Serrano Tampiqueno with 3 x that amount at 15,000 SHU. It is also a BIG serrano that grows to 4-1/2" in length.</p>
+<p>This pepper matures early and produces a large crop of big serranos. Plants are 25” tall and produce jumbo sized pods that are 4-1/2“ long and 1” wide with thick flesh and less heat than all other serranos.</p>
+<p><em data-mce-fragment="1"><u data-mce-fragment="1">Capsicum</u> </em><em data-mce-fragment="1"><u data-mce-fragment="1">annuum</u></em> (75 days) Heat Level: Medium Scoville: 5,000. Open-pollinated.</p>
+<p>Packet contains 10 seeds. $3.99<br></p>
+<p>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light, and keep moist at all times. Seeds will germinate in 7 - 21 days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant them directly into rich soil, 30” apart or into large 5-gallon containers. Harvest chiles when they are green. If left on the plant a couple more weeks, the peppers will turn red at full maturity.</p>
+<p><br><em>  <img alt="" src="//cdn.shopify.com/s/files/1/0871/0950/files/USDAsmalllogo_large.jpg?v=1566253794">  <img height="50" width="53" alt="" src="//cdn.shopify.com/s/files/1/0871/0950/files/nongmo2_large.jpg?v=1566253265"></em></p>
+<p><span><span><em>All of our seeds are GMO-free.</em></span></span></p>
+<a href="//www.pinterest.com/pin/create/extension/" style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;"></a><a href="//www.pinterest.com/pin/create/extension/" style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;"></a><a style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');" href="//www.pinterest.com/pin/create/extension/"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>green chile seeds</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>NuMex seeds</s:tag>
+    <s:tag>open-pollinated</s:tag>
+    <s:tag>serrano</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/4674482995260</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/4613240029244</id>
+    <published>2020-08-06T12:54:17-07:00</published>
+    <updated>2020-08-06T12:54:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/scotch-bonnet-orange-pepper-seeds"/>
+    <title>Scotch Bonnet Orange Pepper Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/ScotchBonnetOrangepktpic.jpg?v=1599871051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Orange Scotch Bonnet - Heirloom</span></p>
+<p><span>These attractive orange hot peppers have a surprising amount of heat and a wonderful aroma. Their unique taste is required for authentic jerk sauce. Jerk is a way of cooking that originated in Jamaica when meat is rubbed with a very sharp spice mixture called Jamaican Jerk spice. It is closely related to the habanero, but with a sweeter flavor and stouter shape. </span></p>
+<p><span>The pods are 1-1/2" wide and 1-1/2" long and have a citrus-like flavor with a lot of heat. They have smooth waxy skin and four globular ridges at the bottom that aren't quite bonnet-like. The peppers mature from green to bright orange on very productive 24" tall plants.  <span style="text-decoration: underline;"><em>Capsiucum</em></span><em> </em><span style="text-decoration: underline;"><em>chinense</em></span> (90 days)</span><br><br><span>~ Packet contains 10 seeds. <br></span><br><span>Heat Level: Extra Super Hot</span><br><span>Scoville Heat Units: 300,000</span></p>
+<p><span><span style="text-decoration: underline;"><em>Capsiucum</em></span><em> </em><span style="text-decoration: underline;"><em>chinense</em></span> strains require a great deal of attention during the germination process. Moisture and a constant and consistent heat range must be maintained. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into containers. </span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span></p>
+<a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/4613240029244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/2349132218428</id>
+    <published>2020-03-24T12:25:55-07:00</published>
+    <updated>2020-03-24T12:25:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/3-pack-jalapeno-serrano-poblano-seeds-15-off"/>
+    <title>3 Pack - Jalapeño, Serrano &amp; Poblano Seeds 15% Off</title>
+    <s:type>Bulk Seeds</s:type>
+    <s:vendor>Sandia Seed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/3PackMexicoGarden.jpg?v=1543357638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed<br>
+        <strong>Type: </strong>Bulk Seeds<br>
+        <strong>Price: </strong>
+            6.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jalapeño M -  Great tasting pepper with that addictive heat for all your jalape<span>ñ</span>o needs. Scoville 12,000</p>
+<p>Poblano - Very mild and delicious large pepper that is perfect for stuffing. Scoville: 500-1,000</p>
+<p>Serrano Tampique<span>ñ</span>o - A little pepper with a unique hot flavor all its own. Scoville 15,000-25,000</p>
+<p>This is a great collection of seeds to grow if you love Mexican food. Walk outside into the garden and harvest Jalape<span>ñ</span>os for pizza, Poblanos for relle<span>ñ</span>os and Serranos for pico de gallo. These are some of the easiest peppers to grow and they do well in container gardens, too. </p>
+<p>This 3 Pack includes one packet each of the following: </p>
+<p><span style="text-decoration: underline;"><span style="color: #6aa84f;"><a href="https://www.sandiaseed.com/products/jalapeno-m" target="_blank" rel="noopener noreferrer" style="color: #6aa84f;"><b>Jalapeño M</b></a></span></span> - Large peppers 3-1/2" long and 1-1/2" wide grow on 36" plants and 73 days until harvest after planting outdoors.</p>
+<p><span style="text-decoration: underline;"><span style="color: #6aa84f;"><a href="https://www.sandiaseed.com/products/poblano" target="_blank" rel="noopener noreferrer" style="color: #6aa84f;"><strong>Poblano</strong></a></span></span> - Heart-shaped 4" long peppers grow on 36" plants and 75 days until harvest after planting outdoors.</p>
+<p><span style="text-decoration: underline;"><span style="color: #6aa84f;"><a href="https://www.sandiaseed.com/products/serrano-tampiqueno" target="_blank" rel="noopener noreferrer" style="color: #6aa84f;"><strong>Serrano Tampiqueño</strong></a></span></span> - Small 2-1/4" peppers grow on 24" tall plants and 78 days until harvest after planting outdoors.</p>
+<p>All 3 varieties produce an abundance of peppers all season long.</p>
+<p>Click the links on each pepper name to see additional information.</p>
+<p>Start your peppers early indoors so they develop good root systems before transplanting outdoors into warm garden soil. </p>
+<p>Choose add to cart as a 3 Pack because purchasing these individually will not generate 15% off in your cart.</p>
+<meta charset="utf-8">
+<p><strong>View all of our varieties of</strong><span> </span><span></span><strong><span style="text-decoration: underline;"><span style="color: #0d7d00;"><a href="https://www.sandiaseed.com/collections/jalapeno-seeds" style="color: #0d7d00; text-decoration: underline;">Jalapeno seeds »</a></span></span></strong></p>
+<strong>View our other <span style="text-decoration: underline;"><span style="color: #6aa84f;"><a href="https://www.sandiaseed.com/blogs/news/discounted-pepper-seed-3-packs" style="color: #6aa84f; text-decoration: underline;">Discounted 3-Packs of Seeds »</a></span></span></strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/2349132218428</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.35</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/4463385804860</id>
+    <published>2020-02-17T10:15:47-08:00</published>
+    <updated>2020-02-17T10:15:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/habanero-orange-seeds"/>
+    <title>Habanero Orange - Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/orangehabpiconpkt1.jpg?v=1582064509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orange Habanero is an aromatic chile pepper with a subtle apricot aroma and offers an intense and pungent heat. Their spicy heat and citrusy fresh flavor go well with so many foods, tropical fruits, lime, avocados, fish, and tequila, etc. All habanero seeds are known for their slow germination and must be grown in warm, moist conditions.</p>
+<p>Ripens from green to bright orange color with thin skin and waxy exterior. The pods have a distinctive lantern-like shape and are small at 2” long and 1“-2” wide. <em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">chinense</span></em> (90 days) Heirloom - Open-pollinated</p>
+<p><span>Heat Level: Extra Super Hot.  Scoville Heat Units 250,000</span><br><br><span>~ Packet contains 10 seeds. </span></p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30" apart or into large 5-gallon containers. Harvest peppers when they are orange.</span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span></p>
+<a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>chile seeds</s:tag>
+    <s:tag>habanero</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/4463385804860</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/11404181262</id>
+    <published>2019-11-16T14:49:21-08:00</published>
+    <updated>2019-11-16T14:49:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/jalapeno-mucho-nacho"/>
+    <title>Jalapeño Mucho Nacho Hybrid Seeds ORG</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/JalapenoMuchoNachopktpic.jpg?v=1579645357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jalapeño Mucho Nacho - A great pepper to chop into fresh salsa or other dishes needing some spice. Put thick slices on top of nachos before broiling. There is no need to first roast and peel, just use it directly from the garden. Harvest green Mucho Nacho peppers about 70 days after the seedlings are planted in the ground. Fruits will ripen to red about 15 days later.</p>
+<p>The 4” conical fruits have thick dark green flesh. The big jalapeños grow on vigorous plants set fruit that ripen from green to red. Produces all season long. This is one of the milder Jalapeños with great flavor.</p>
+<p><em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">annuum</span></em> (70 days) Hybrid - Non-GMO - Organic</p>
+<p>Heat Level: Hot  Scoville: 4,500 - 8,000</p>
+<p>~ Packet contains 10 seeds.</p>
+<meta charset="utf-8">
+<p><strong>View all of our varieties of</strong><span> </span><span></span><strong><span style="text-decoration: underline;"><span style="color: #0d7d00;"><a href="https://www.sandiaseed.com/collections/jalapeno-seeds" style="color: #0d7d00; text-decoration: underline;">Jalapeno seeds »</a></span></span></strong></p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into large 5 gallon containers. Harvest peppers when they are full size and glossy dark green. </span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807" width="55" height="51"><img src="https://cdn.shopify.com/s/files/1/0871/0950/files/USDAsmalllogo_large.jpg?v=1566253794" alt=""><br>All of our seeds are GMO-free.</em></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>early</s:tag>
+    <s:tag>green chile</s:tag>
+    <s:tag>jalapeno</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/11404181262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/4327278051388</id>
+    <published>2019-11-02T11:53:09-07:00</published>
+    <updated>2019-11-02T11:53:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/fish-pepper-seeds-org"/>
+    <title>Fish Pepper Seeds ORG</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/FishPepperpktpic.jpg?v=1579645333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A very unique pepper plant with green and white mottled foliage and variegated fruits. The 2" curving pendant fruits look a little like swimming fish. Peppers turn from white with green stripes to orange with brown stripes and finally to a mature solid red. Grown for its ornamental value. <span>View all of our </span><strong><span style="text-decoration: underline; color: #881c1c;"><a href="https://www.sandiaseed.com/collections/ornamental-peppers" style="text-decoration: underline; color: #881c1c;">Ornamental Peppers »</a></span></strong></p>
+<p>In the 1940s seeds were received from Horace Pippin, a black folk painter in West Chester, Pa. The peppers came from Baltimore, where they had been employed by black caterers to make white paprika for the cream sauces then popular with fish and shellfish cookery. The white and green foliage and the striped pods derive their unique look from the same recessive genes that cause albinism. <em><span style="text-decoration: underline;">Capsicum</span><span> </span><span style="text-decoration: underline;">annuum</span></em>     (90 days) Organic - Heirloom - Open-pollinated - Non-GMO</p>
+<p>Heat Level: Very Hot  Scoville 5,000 - 30,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<p>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in 7 - 21 days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant them directly into rich soil, 30” apart or into large 5-gallon containers. Harvest chiles when they are colorful and striped. If left on the plant the peppers will turn red at full maturity.<br><br><span><em>  <img src="https://cdn.shopify.com/s/files/1/0871/0950/files/USDAsmalllogo_large.jpg?v=1566253794" alt="">  <img src="https://cdn.shopify.com/s/files/1/0871/0950/files/nongmo2_large.jpg?v=1566253265" alt="" width="53" height="50"><br>All of our seeds are GMO-free.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>hot pepper</s:tag>
+    <s:tag>open-pollinated</s:tag>
+    <s:tag>ornamental</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/4327278051388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/3868570714172</id>
+    <published>2019-08-19T17:28:31-07:00</published>
+    <updated>2019-08-19T17:28:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/cayenne-las-cruces-numex-seeds"/>
+    <title>Cayenne - Las Cruces NuMex Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/lascrucescayennepktpicsmaller.jpg?v=1579645327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A great pepper for ground cayenne pepper or making fresh hot sauces. It is the result of crossing two of the best cayennes grown in New Mexico and was released in 2010. It has the earliness and large fruits of ‘Large Red Thick’ with the high yield of ‘Mesilla’. NuMex Las Cruces Cayenne is used fresh, dried, or chopped fresh and mixed with ≈20% salt and then allowed to ferment. The resulting “mash” is the key ingredient in Louisiana-style hot sauces. This pepper is a high-yielding, high-heat, cayenne pepper with resistance to beet curly top virus. Fruit can be 6” long and over 1” wide and matures to bright red. Plants grow 24” – 35” tall.</p>
+<p><em><u>Capsicum</u> <u>annuum</u></em> (76 days) Heat Level: Very Hot  Scoville: 17,400  Open-pollinated / Non-GMO     Packet contains 10 seeds</p>
+<p> </p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 24” apart or into large 3-gallon containers. Harvest chiles when they are red. </span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span></p>
+<a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>cayenne</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/3868570714172</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/3868555837500</id>
+    <published>2019-08-19T17:22:26-07:00</published>
+    <updated>2019-08-19T17:22:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/hot-hungarian-yellow-wax-seeds"/>
+    <title>Hot Hungarian Wax Seeds ORG</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/hothungarianpeppers.jpg?v=1579645352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Big and juicy banana-shaped waxy peppers grow 5” long on 3’ tall plants. Ripens from pale yellow to deep golden orange and finally cherry red. Very productive even in cool weather. Great for short seasons. This pepper originated from Hungary in 1941 and is also known as Hot Banana Wax. For milder peppers with less heat, harvest early when pale green-yellow. As the pepper matures to red it gets hotter. These look like sweet Hungarian peppers and the only way to tell them apart is the heat! <span style="text-decoration: underline;"><span style="color: #57a600;"><a href="https://www.sandiaseed.com/blogs/news/easy-refrigerator-pickled-peppers" style="color: #57a600; text-decoration: underline;">Pickle</a></span></span> all three colors for a beautiful hot-pepper medley—a staple for winter sandwiches.<em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration-line: underline;">annuum</span></em>. (68 days)</p>
+<p>Heat Level: Hot.  Scoville 5,000–10,000   Organic, open-pollinated, heirloom. </p>
+<p> ~ Packet contains 10 seeds. $2.49</p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart in the garden, or into large 5-gallon containers. Harvest peppers when they are green, orange or red. </span></p>
+<p><span><span><em> <img src="//cdn.shopify.com/s/files/1/0871/0950/files/USDAsmalllogo_large.jpg?v=1566253794" alt="">   <img src="//cdn.shopify.com/s/files/1/0871/0950/files/nongmo2_large.jpg?v=1566253265" alt=""><br>All of our seeds are GMO-free.</em></span></span></p>
+<a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:tag>wax</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/3868555837500</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/3868546596924</id>
+    <published>2019-08-19T17:18:35-07:00</published>
+    <updated>2019-08-19T17:18:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/serrano-hidalgo-seeds"/>
+    <title>Serrano Hidalgo Seeds ORG</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/SerranoHidalgopktpiccanvas.jpg?v=1579645386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Serrano Hidalgo originated in the mountainous regions of the Mexican state of Hidalgo and its name is a reference to the mountains of that area. This pepper is slightly hotter than a jalapeño with a bright fruit flavor. They are perfect for fresh salsa and pickling or homemade hot sauces. Use the serranos fresh without any roasting or peeling This extremely productive plants yield dozens of light green fruits that ripen green to red. The small 2-1/2 x 1/2” fruits have thin walls and the classic serrano heat. Plants can grow up to 3 feet tall. <em><u>Capsicum</u> </em><em><u>annuum</u></em> (76 days)  Heat Level: Hot to Very Hot.  Scoville 6,000-17,000.   Organic, open-pollinated, heirloom       </p>
+<p>Packet contains 10 seeds. $3.99</p>
+<p>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in 7 - 21 days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant them directly into rich soil, 30” apart or into large 5-gallon containers. Harvest chiles when they are green. If left on the plant a couple more weeks, the peppers will turn red at full maturity.</p>
+<p><br><em>  <img src="//cdn.shopify.com/s/files/1/0871/0950/files/USDAsmalllogo_large.jpg?v=1566253794" alt="">  <img src="//cdn.shopify.com/s/files/1/0871/0950/files/nongmo2_large.jpg?v=1566253265" alt="" width="53" height="50"></em></p>
+<p><span><span><em>All of our seeds are GMO-free.</em></span></span></p>
+<a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>green chile seeds</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>open-pollinated</s:tag>
+    <s:tag>organic</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/3868546596924</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/3868519366716</id>
+    <published>2019-08-19T17:06:08-07:00</published>
+    <updated>2019-08-19T17:06:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/jalapeno-tam-seeds"/>
+    <title>Jalapeño TAM Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/TAMJalapenopepperpicsmaller_44d77fe8-f4a6-4ee8-9d18-13f29597bd38.jpg?v=1579645360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Milder than most jalapenos and has all the classic Jalapeño flavor. This early variety was developed by Texas A&amp;M and is very productive and resistant to disease.  This 3” long jalapeno is so much milder than its relatives, with a Scoville scale of 1,000 to 1,500 compared to up to 5,000 for the Early variety. TAM Jalapeño can be made even milder by removing the thin membrane that connects the seeds to the wall of the pepper. The membrane is attached as a small band with capsaicin glands. They contain concentrated amounts of the chemical compound that causes the burning sensation. In short, if you like the taste of the Jalapeno but can't take its heat, this one is for you! Great for stuffing or grinding to make chili powder! <em><u>Capsicum</u> <u>annuum</u></em> (75 days)  Heat Level: Mild. Scoville 1,000 - 1,500 Open-pollinated, heirloom.    Packet contains 10 seeds  $2.49</p>
+<meta charset="utf-8">
+<p><strong>View all of our varieties of</strong><span> </span><span></span><strong><span style="text-decoration: underline;"><span style="color: #0d7d00;"><a href="https://www.sandiaseed.com/collections/jalapeno-seeds" style="color: #0d7d00; text-decoration: underline;">Jalapeno seeds »</a></span></span></strong></p>
+<p>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in 7 - 21 days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant them directly into rich soil, 30” apart or into large 5-gallon containers. Harvest chiles when they are green. If left on the plant a couple more weeks, the peppers will turn red at full maturity.</p>
+<p><br><em>   <img src="//cdn.shopify.com/s/files/1/0871/0950/files/nongmo2_large.jpg?v=1566253265" alt="" width="53" height="50"></em></p>
+<p><span><span><em>All of our seeds are GMO-free.</em></span></span></p>
+<a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>green chile seeds</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>jalapeno</s:tag>
+    <s:tag>open-pollinated</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/3868519366716</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/3868508880956</id>
+    <published>2019-08-19T17:00:29-07:00</published>
+    <updated>2019-08-19T17:00:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/jalapeno-traveler-seeds"/>
+    <title>Jalapeño Traveler Seeds ORG</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/travelerjalapenopicsmaller.jpg?v=1579645361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The sturdy and vigorous 3’ tall plants produce a continuous crop all season. The fruits are conical 3-1/2- 4” long with thick bright green flesh and grow well at both high and low elevations.  A great, reliable variety that produces large peppers with consistent medium heat.</p>
+<p>History: Introduced by Larry Pierce of Cabool, MO who named it Traveler because he selected it over the course of over 20 years in several states as he moved to Oklahoma and Wyoming, and then to MO. They taste best when allowed to fully ripen to red but are great green as well. Chop up and add to salsas or eat one alongside your sandwich. <em><u>Capsicum</u> <u>annuum</u></em> (80 days) </p>
+<p>Heat Level: Medium to Hot. Scoville 2,500 - 8,000 Organic, open-pollinated, heirloom.     </p>
+<p>Packet contains 10 seeds  $2.49</p>
+<meta charset="utf-8">
+<p><strong>View all of our varieties of</strong><span> </span><span></span><strong><span style="text-decoration: underline;"><span style="color: #0d7d00;"><a href="https://www.sandiaseed.com/collections/jalapeno-seeds" style="color: #0d7d00; text-decoration: underline;">Jalapeno seeds »</a></span></span></strong></p>
+<p>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in 7 - 21 days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant them directly into rich soil, 30” apart or into large 5-gallon containers. Harvest chiles when they are green. If left on the plant a couple more weeks, the peppers will turn red at full maturity.<br><br><em>  <img src="//cdn.shopify.com/s/files/1/0871/0950/files/USDAsmalllogo_large.jpg?v=1566253794" alt="">  <img src="//cdn.shopify.com/s/files/1/0871/0950/files/nongmo2_large.jpg?v=1566253265" alt="" width="53" height="50"></em></p>
+<p><span><span><em>All of our seeds are GMO-free.</em></span></span></p>
+<a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>green chile seeds</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>jalapeno</s:tag>
+    <s:tag>open-pollinated</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/3868508880956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/3860735230012</id>
+    <published>2019-08-14T11:26:15-07:00</published>
+    <updated>2019-08-14T11:26:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/seed-catalog"/>
+    <title>Seed Catalog</title>
+    <s:type>Display</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/2021-Seed-Catalog-Sandia-Seed-Hatch-Chile-Seeds.jpg?v=1611188647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out our new 2021 Seed Catalog featuring all of the seeds that Sandia Seed offers. With 36 pages, we have lots of new vegetables and peppers to browse!</p>
+<meta charset="utf-8">
+<p>Download a <strong>FREE digital copy</strong> of our<br> <span style="text-decoration: underline;"><span style="color: #0ca100; text-decoration: underline;"><a style="color: #0ca100; text-decoration: underline;" href="https://cdn.shopify.com/s/files/1/0871/0950/files/Sandia-Seed-Catalog-2021.pdf?v=1611188974" data-mce-href="https://cdn.shopify.com/s/files/1/0871/0950/files/Sandia-Seed-Catalog-2021.pdf?v=1611188974"><strong>Seed Catalog PDF »</strong></a> <br></span></span><br></p>
+<div style="text-align: left;"><a href="https://cdn.shopify.com/s/files/1/0871/0950/files/Sandia-Seed-Catalog-2021.pdf?v=1611188974"><img style="float: none; display: block; margin-left: auto; margin-right: auto;" alt="2021 Seed Catalog from Sandia Seed - Download PDF" src="https://cdn.shopify.com/s/files/1/0871/0950/files/2021-Seed-Catalog-Download.jpg?v=1611189263" width="70%"></a></div>
+<p><br><br>Or order a printed one to be mailed for $2 (includes shipping). </p>
+<p>Our 2021 Seed Catalog features lots of new seeds, recipes, and growing tips:<br></p>
+<p class="p1">The complete catalog has a total of <span class="s1"><strong>106 specialty peppers</strong> </span>from sweet to super-hot, <span class="s1"><strong>45 heirloom tomatoes,</strong> </span>and now organic <span class="s2">seeds for </span><strong>20 organic vegetables.<br></strong><br>For quick online shopping, you can also view our entire <span style="color: #41ae5b;"><strong><span style="text-decoration: underline;"><a style="text-decoration: underline; color: #41ae5b;" href="https://www.sandiaseed.com/pages/seed-catalog">online seed catalog</a></span></strong></span> in one place. Our specialty is green chile seeds and we have the largest selection from very mild to extremely hot. There is also a great selection of sweet peppers, mild, medium, and hot peppers, and Mexican peppers. We haven’t forgotten about the chileheads and have a few crazy hot peppers especially for you. <br><br>All of our seeds are Non-GMO and are organically sourced whenever possible. <br><br>This seed catalog is great for winter-time dreaming of the next season, so get yours today! Happy growing!</p>
+<p class="p1"><span>*We do not mail catalogs to Canada.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/3860735230012</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/761413730364</id>
+    <published>2018-08-23T20:49:42-07:00</published>
+    <updated>2018-08-23T20:49:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/aji-limo-lemon-drop-pepper"/>
+    <title>Aji Limo / Lemon Drop</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/AjiLimopktpic.jpg?v=1548196202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aji Limo - One of the most flavorful of the Andean peppers has survived from pre-Columbian times. Its distinctive citrus flavor and the bright yellow pods immediately bring to mind the crisp aromas of lemons and limes. This pepper is extremely spicy, but when it’s tempered by cooking in sweet-flavored salsas, the lemony taste is dynamite and it is truly citrusy. Raw and finely chopped this pepper adds flavor, color and heat to ceviches. </p>
+<meta charset="utf-8">
+<p><span>The prolific plants are also hard to kill, so they're perfect for first time pepper growers!</span></p>
+<p>It bears heavily, with dozens of small, waxy-skinned fruit that turn from light green to golden yellow at ripeness. This pepper has a long growing season and produces well into the cooler months. Small 24” plants and 2“ pods. Commonly known as Lemon Drop pepper. <em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">baccatum</span>  </em>(100 days)</p>
+<p>Heat Level: Very Hot  Scoville 15,000 - 30,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in 7-14 </span><span>days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 24” apart or into large 3 gallon containers. Harvest peppers when they are yellow.</span></p>
+<p><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/761413730364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/764776120380</id>
+    <published>2017-09-23T17:03:14-07:00</published>
+    <updated>2017-09-23T17:03:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/numex-orange-spice-jalapeno"/>
+    <title>Jalapeño Orange Spice NuMex Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/jalorangespiceppepperpic.jpg?v=1579645359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back in stock for now!</p>
+<p>NuMex <span>Jalapeño </span>Orange Spice - This new hot and colorful orange jalapeño is great in the home garden along with yellow and green japlapeños. Orange Spice also gives market growers a competitive advantage for buyers desiring new colors of jalapeños. These orange Jalapeños also ripen earlier than most other peppers at just 65 days, so you'll be able to enjoy these beauties sooner than later. This year’s jalapeño party appetizers will be bright and extra, extra hot! It has thick flesh and spicy flavor like the Early Jalapeño, but 3x more heat. These go great with our fiery <span style="text-decoration: underline; color: #ff8000;"><a href="https://www.sandiaseed.com/blogs/news/orange-salsa-recipe" style="color: #ff8000; text-decoration: underline;">Orange Salsa Recipe</a></span>! Plants are 24” tall and pods 2-1/2” x 1” wide. <em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">annuum</span></em> (65 days) Heirloom - Open Pollinated</p>
+<p>Heat Level: Very Very Hot  Scoville: 80,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<meta charset="utf-8">
+<p><strong>View all of our varieties of</strong><span> </span><span></span><strong><span style="text-decoration: underline;"><span style="color: #0d7d00;"><a href="https://www.sandiaseed.com/collections/jalapeno-seeds" style="color: #0d7d00; text-decoration: underline;">Jalapeno seeds »</a></span></span></strong></p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into large 5 gallon containers. Harvest peppers when they are full size and orange.</span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green chile</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/764776120380</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/11403917390</id>
+    <published>2017-09-23T17:03:14-07:00</published>
+    <updated>2017-09-23T17:03:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/numex-lemon-spice-jalapeno"/>
+    <title>Jalapeño Lemon Spice NuMex Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/lemonspicepepperpic.jpg?v=1553639276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NuMex Jalapeño Lemon Spice  - This yellow jalapeño is joining in on the popularity enjoyed by colorful bell peppers. It’s a fact that growers receive a premium for products with novel coloration. Use this beautiful pepper to enhance the look of everything you would make with green jalapeños! This jalapeño is green at immaturity and bright yellow at maturity. It has thick flesh and spicy flavor like the Early Jalapeño, but a lot more heat. Yellow Jalapeño seeds are easy to grow, and these yellow beauties will certainly please in the garden! This yellow jalapeño ripens as early as 65 days after germinating – which means you can enjoy these yellow gems earlier than most other peppers! Plants are 24” tall and pods 3” x 1” wide. <em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">annuum</span></em> (65 days) Heirloom - Open Pollinated</p>
+<p>Heat Level: Very Hot  Scoville: 30,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<meta charset="utf-8">
+<p><strong>View all of our varieties of</strong><span> </span><span></span><strong><span style="text-decoration: underline;"><span style="color: #0d7d00;"><a href="https://www.sandiaseed.com/collections/jalapeno-seeds" style="color: #0d7d00; text-decoration: underline;">Jalapeno seeds »</a></span></span></strong></p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into large 5 gallon containers. Harvest peppers when they are full size and yellow.</span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>green chile</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/11403917390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/11318974862</id>
+    <published>2017-08-25T19:29:27-07:00</published>
+    <updated>2017-08-25T19:29:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/tabasco"/>
+    <title>Tabasco Pepper Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/tabasco.jpg?v=1616695466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create the flavorful tabasco sauce with fresh, fleshy and peppers in the right state of ripeness. Add distilled white vinegar and salt. Some recipes add garlic and sugar. Ferment and enjoy! Check out our amazing <strong><span style="text-decoration: underline;"><span style="color: #990000;"><a href="https://www.sandiaseed.com/blogs/news/easy-fermented-hot-sauce-recipe" style="color: #990000; text-decoration: underline;">Easy Fermented Hot Sauce Recipe »</a></span></span></strong></p>
+<p>Plants are 2’- 4’ tall and loaded with slender 1-1/2” pods that grow upright. Chiles mature from yellow-green to bright red and have a unique, smoky flavor that creates their distinctive tabasco taste. Easy to grow and vigorous. Good for container gardens and ornamental.</p>
+<p><span><em>Capsicum</em></span><em><span> </span></em><span><em>frutescens</em></span><span> </span>(81 days) Heirloom - Open Pollinated</p>
+<p>Heat Level: Very Hot  Scoville: 30,000 - 50,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into large 5 gallon containers. Harvest peppers when they are full size and glossy red. </span></p>
+<p><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"></em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/11318974862</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/2487371268156</id>
+    <published>2017-01-03T21:08:00-08:00</published>
+    <updated>2017-01-03T21:08:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/malagueta-heirloom-pepper-seeds"/>
+    <title>Malagueta Heirloom Pepper Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/Malaguetapepperspile.jpg?v=1554244028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Malagueta is one of the most widely used hot peppers in Brazil. It is a small and tapered pepper that turns red as it matures. Peppers are 2" long and grow on 24" - 30“ shrubby plants. <span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">frutescens</span> (100 days) Heirloom - Open Pollinated</p>
+<p>Heat Level: Very Hot Scoville: 60,000-100,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>14</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into patio containers. Harvest peppers when they are red. </span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/2487371268156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/8878012675</id>
+    <published>2017-01-03T21:08:00-08:00</published>
+    <updated>2017-01-03T21:08:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/datil"/>
+    <title>Datil Pepper Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/Datilpepperpicsmaller.jpg?v=1579645330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Datil is a blazing hot, little pepper with 3-1/2” fruits that ripen to a brilliant orange- yellow. The heat is vicious, but the flavor is complex, sweet and fruity. Datil is an exceptionally hot pepper and one of the most popular locally grown products in Saint Augustine, Florida. They have a festival there, that is completely dedicated to celebrating the Datil pepper in all its spicy glory. It is popular in many Minorcan recipes in St. Augustine and is used to create delicious hot sauces, jellies, and mustards that are sold all over town.  Plants grow 30“ tall. <span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">chinense</span> (100 days) Heirloom - Open Pollinated</p>
+<p>Heat Level: Very Hot Scoville: 100,000-300,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into large 5 gallon containers. Harvest peppers when they are yellow. </span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/8878012675</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/1921936131</id>
+    <published>2017-01-03T18:13:00-08:00</published>
+    <updated>2017-01-03T18:13:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/jalmundo-numex"/>
+    <title>Jalapeño NuMex Jalmundo Pepper Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/jalmundopepperpic.jpg?v=1548196302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jalmundo NuMex - It's back! Extra large jalapeño developed for America's love of jalapeño popper appetizers. This jumbo jalapeño is bigger and has more heat than the Early Jalapeño. Easy to grow in containers and matures early.</p>
+<p>Heavy yields of large meaty jalapeño up to 5" long and 2-1/2" wide and grow on productive 30” plants. Turns from green to red as it matures. <em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">annuum</span></em> (78 days)</p>
+<p>Heat Level:  Hot   Scoville 17,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<meta charset="utf-8">
+<p><strong>View all of our varieties of</strong><span> </span><span></span><strong><span style="text-decoration: underline;"><span style="color: #0d7d00;"><a href="https://www.sandiaseed.com/collections/jalapeno-seeds" style="color: #0d7d00; text-decoration: underline;">Jalapeno seeds »</a></span></span></strong></p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into large 5 gallon containers. Harvest chiles when they are green. </span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span></p>
+<a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a style="width: 40px; height: 20px; display: none; position: absolute; z-index: 8675309; cursor: pointer; opacity: 0.85; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII='); background-color: transparent;" href="//www.pinterest.com/pin/create/extension/"></a><a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>green chile</s:tag>
+    <s:tag>green chile seeds</s:tag>
+    <s:tag>hatch green</s:tag>
+    <s:tag>jalapeno</s:tag>
+    <s:tag>new mexico chile</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/1921936131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/8889892419</id>
+    <published>2016-12-21T10:59:00-08:00</published>
+    <updated>2016-12-21T10:59:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/jalapeno-m"/>
+    <title>Jalapeño M Pepper Seeds ORG</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/JalapenoMpktpic.jpg?v=1616695908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Jalapeño M - </span>The addictive flavor of this Jalape<span>ñ</span>o M makes it America's most popular pepper! The Jalapeño M variety has larger fruit with more heat than the Early Jalapeño. The thick-walled dark green fruits average 3-1/2” long by 1-1/2“ wide and are very pungent. This variety is slow to turn red and grow on plants from 24” to 36“ tall. Jalapeño M peppers are found in rings atop nachos and chopped into Mexican sauces. They can be used fresh or pickled. <em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">annuum</span></em> (73 days) Organic - Heirloom - Open Pollinated - Non-GMO</p>
+<p>Heat Level: X Hot  Scoville: 12,000</p>
+<p>~ Packet contains 10 seeds. <br></p>
+<meta charset="utf-8">
+<p><strong>View all of our varieties of</strong><span> </span><span></span><strong><span style="text-decoration: underline;"><span style="color: #0d7d00;"><a href="https://www.sandiaseed.com/collections/jalapeno-seeds" style="color: #0d7d00; text-decoration: underline;">Jalapeno seeds »</a></span></span></strong><br></p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into large 5-gallon containers. Harvest peppers when they are full size and glossy dark green. </span></p>
+<p><span><span><em> <img src="//cdn.shopify.com/s/files/1/0871/0950/files/USDAsmalllogo_large.jpg?v=1566253794" alt="">   <img src="//cdn.shopify.com/s/files/1/0871/0950/files/nongmo2_large.jpg?v=1566253265" alt="" width="50" height="47"><br>All of our seeds are GMO-free.</em></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>green chile</s:tag>
+    <s:tag>jalapeno</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/8889892419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/8878180547</id>
+    <published>2016-12-08T07:10:00-08:00</published>
+    <updated>2016-12-08T07:10:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/goat-horn"/>
+    <title>Goat Horn Pepper Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/goathornweb_2f230246-435f-4762-b973-c3282ca3adde.jpg?v=1548196251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The beautiful smooth ripe pods have a distinctive sweet taste followed by fast building long-lasting heat. This is a medium thick walled cayenne-type pepper with good flavor. The glossy red 4”- 6“ fruits curve and resemble a goat’s horn. This compact 24”-36“ plant is very productive and can be grown as an ornamental. Easy to grow. These spicy peppers have a variety of uses, and are most popularly cooked into various dishes, including Asian cuisine. </p>
+<p><em><span style="text-decoration: underline;">Capsicum</span> <span style="text-decoration: underline;">annuum</span></em> (75 days) Heirloom - Open-Pollinated</p>
+<p>Heat Level: Super Hot  Scoville: 20,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<p>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in 7 - 21 days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant them directly into rich soil, 30” apart or into large 5 gallon containers. Harvest peppers when they are red. <br><br><strong>These peppers are GREAT for making Homemade Pepper Flakes!<br></strong>Check out our<strong> <span style="text-decoration: underline;"><span style="color: #6aa84f; text-decoration: underline;"><a href="https://www.sandiaseed.com/blogs/news/how-to-make-red-pepper-flakes" style="color: #6aa84f; text-decoration: underline;">Hot Pepper Flakes Recipe »</a></span></span><br><br>Another great Goat Horn pepper recipe:</strong><br>Check out this quick <strong><span style="text-decoration: underline; color: #6aa84f;"><a href="https://www.sandiaseed.com/blogs/news/vinegar-pepper-sauce-recipe" style="color: #6aa84f; text-decoration: underline;">Vinegar Pepper Sauce Recipe »</a></span></strong></p>
+<p><span>Also, our </span><span style="text-decoration: underline;"><span style="color: #990000;"><strong><a href="https://www.sandiaseed.com/blogs/news/sichuan-chile-oil-recipe" style="color: #990000; text-decoration: underline;">Sichuan Chile Oil Recipe</a></strong></span></span><span> is amazing on everything!</span> <br><br></p>
+<meta charset="utf-8">
+<p><span>View all of our </span><strong><span style="text-decoration: underline; color: #881c1c;"><a href="https://www.sandiaseed.com/collections/ornamental-peppers" style="text-decoration: underline; color: #881c1c;">Ornamental Peppers »</a></span></strong><br></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>cayenne</s:tag>
+    <s:tag>heirloom</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/8878180547</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/8877907395</id>
+    <published>2016-12-08T07:09:00-08:00</published>
+    <updated>2016-12-08T07:09:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/bishop-crown"/>
+    <title>Bishop Crown Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/BishopCrownRedweb.jpg?v=1548196228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bishop Crown is a unique thin-skinned red pepper with the unusual appearance of a tri-cornered hat like a Catholic Bishop’s Crown. The heat level has a very wide range from a medium 5,000 Scoville heat units (SHU), all the way up to a very hot 15,000 SHU.  Its small size is 1-1/2” long by 2”- 3“ wide with a sweet and fruity taste. Bishop Crown originates from Barbados and is a large plant reaching almost 4’ in height. The long branches may require support when fully laden with pods. As part of the Baccatum family of peppers it has attractive white flowers with greenish- yellow markings. </p>
+<p><span style="text-decoration: underline;"><em>Capsicum</em></span><em> </em><span style="text-decoration: underline;"><em>baccatum</em></span> (90 days) Heirloom - Open Pollinated</p>
+<p>Heat Level: Med.-Very Hot Scoville: 5,000-15,000</p>
+<p>~ Packet contains 10 seeds. </p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 30” apart or into large 5 gallon containers. Harvest peppers when they are red. </span></p>
+<p><span><span><em><img src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807" alt="Non-GMO"><br>All of our seeds are GMO-free.</em></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/8877907395</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sandiaseed.com/products/8905104195</id>
+    <published>2016-12-06T07:55:00-08:00</published>
+    <updated>2016-12-06T07:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sandiaseed.com/products/numex-twilight"/>
+    <title>Twilight NuMex Pepper Seeds</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Sandia Seed Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0871/0950/products/NuMexTwilightWeb.jpg?v=1548800719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sandia Seed Company<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NuMex Twilight - A beautiful, eye-catching pepper plant producing a beautiful array of bright purple fruits that ripen to yellow, orange, then red. It creates a colorful display through the summer months and will make a great statement in your landscape when multiple plants are grouped together. Small 2”-4“ upright fruits start off purple, go to yellow, orange, and lastly red. All four colors appear on the plant at the same time. Mostly grown as an ornamental and makes a great patio plant. Plants grow to 24” tall. <span style="text-decoration: underline;"><em>Capsicum</em></span> <span style="text-decoration: underline;"><em>annuum</em></span> (120 days) Open-pollinated - Ornamental. View all of our <strong><span style="text-decoration: underline; color: #881c1c;"><a href="https://www.sandiaseed.com/collections/ornamental-peppers" style="text-decoration: underline; color: #881c1c;">Ornamental Peppers »</a></span></strong></p>
+<p>Heat Level: Very Hot  Scoville: The pungency level of this ornamental has not been evaluated. <br><br><strong><span style="text-decoration: underline;"><span style="color: #990000;"><a href="https://www.sandiaseed.com/blogs/news/can-you-eat-numex-twilight-peppers" style="color: #990000; text-decoration: underline;">Can you eat NuMex Twilight Peppers?<br></a></span></span></strong>Hint: yes, you can!<br><br>~ Packet contains 10 seeds. </p>
+<p><span>In early spring, start seeds indoors 8 weeks prior to warm nightly temperatures. Place the seeds in sterile media and cover 1/4” deep. Provide 85°F bottom heat, bright light and keep moist at all times. Seeds will germinate in </span><span>7 - </span><span>21</span><span> days. Transplant seedlings into pots and grow until there are 6 true leaves on the plant. Plant the</span><span>m</span><span> directly into rich soil, 20" apart for a hedge look or into large patio containers. </span></p>
+<p><span><span><em><img alt="Non-GMO" src="https://cdn.shopify.com/s/files/1/0871/0950/files/Non-GMO_large.jpg?5853219184806263807"><br>All of our seeds are GMO-free.</em></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>catalog list</s:tag>
+    <s:tag>chile seeds</s:tag>
+    <s:tag>new mexico chile</s:tag>
+    <s:tag>NuMex</s:tag>
+    <s:tag>ornamental</s:tag>
+    <s:tag>pepper seeds</s:tag>
+    <s:tag>purple</s:tag>
+    <s:variant>
+      <id>https://www.sandiaseed.com/products/8905104195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+</feed>
